@@ -54,6 +54,7 @@ public class BaseTest {
 	// CTRL + SHIFT + O
 	public static WebElement dropdown;
 
+	// Loading the log4j and properties files
 	@BeforeSuite
 	public void setUp() {
 
