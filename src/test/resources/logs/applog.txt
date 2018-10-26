@@ -1,0 +1,8 @@
+INFO    2018-10-25 16:43:00,518 [main] base.BaseTest  - OR Properties Loaded !!!
+INFO    2018-10-25 16:43:00,522 [main] base.BaseTest  - Config Properties Loaded !!!
+INFO    2018-10-25 16:43:06,105 [main] base.BaseTest  - Chrome Launched
+INFO    2018-10-25 16:43:10,122 [main] base.BaseTest  - Navigated to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2018-10-25 16:43:12,703 [main] base.BaseTest  - DB Connection created
+INFO    2018-10-25 16:43:13,045 [main] base.BaseTest  - User clicked on : bankmanagerloginBtn_CSS
+INFO    2018-10-25 16:43:13,389 [main] base.BaseTest  - Finding the Element : addCustomerBtn_CSS
+INFO    2018-10-25 16:43:14,538 [main] base.BaseTest  - Test Execution Completed !!!
